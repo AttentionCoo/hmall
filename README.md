@@ -65,6 +65,7 @@
 ```bash
 git clone [https://github.com/AttentionCasria/hmall.git](https://github.com/AttentionCasria/hmall.git)
 cd hmall
+```
 
 ## 📦 模块拆分与架构设计 (Architecture)
 
@@ -75,8 +76,6 @@ cd hmall
 mvn clean install
 
 ---
-
-
 
 ### 🛠 主要优化点解析：
 
